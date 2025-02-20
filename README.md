@@ -1,7 +1,5 @@
-Hello everyone
+Hello everyone- My name is Matthew 
 
-- 🔭 I’m currently working on finding a new position- I have experience in logistics, supply chain and my most recent job was in TMS implementaton. I love technology and how it can influence the world. 
-- 🌱 I’m currently learning backend development with boot.dev- currently on the linux portion. I am using raspberry pi OS as my linux disto. I enjoy learning new technologies.
+Currently learning backend devlopment with boot.dev
 
-
-
+“Any sufficiently advanced technology is indistinguishable from magic”
